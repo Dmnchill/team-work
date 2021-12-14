@@ -5,12 +5,13 @@ A faire : ajouter un fichier ".gitignore"
 
 Tout droit, de tout façon y a plus de boulot
 La boucle est bouclée, le système a la tête sous l'eaugit 
-=======
 
-# Daniel Matadi & Praise 
-## TP : Laisse pas traîner ton fils
+Et les jeunes sont saoulés, salis sous le silence
+Seule issue la rue même quand elle est en sens
+
+C'est pas un souci pour ceux qui s'y sont préparés
 
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal
 Pour celui qui traîne, comme pour celui qui file
 
->>>>>>> dedb5ebf413bbd89989d356bcfb503ec03dd60ef
+
